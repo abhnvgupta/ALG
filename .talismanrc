@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: api-server-django
+  checksum: 169f44174a6efc37b96ca99dd3a94d07e9e0c09889ca91d31e6bb13fb80d13cd
+- filename: client
+  checksum: d3d2a40aa75bffdc3b121e6bf99b9977f5df32af0a25077a6126e9dfb0d14b55
+version: "1.0"
